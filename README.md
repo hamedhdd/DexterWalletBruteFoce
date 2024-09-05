@@ -1,7 +1,6 @@
-# EnigmaCracker
-EnigmaCracker is a tool for brute forcing Crypto Wallets
 
-![EnigmaCrackerV2](https://github.com/yaron4u/EnigmaCracker/assets/67191566/de72ea8a-2ec4-4b32-9580-bd80c9715f87)
+DexterWalletCracker is a tool for brute forcing Crypto Wallets
+
 
 ## ⚠️**Disclaimer**⚠️
 
